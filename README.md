@@ -28,9 +28,11 @@ pip install tensorflow
   
   <code>jupyter lab</code>
   
+  <li> Run <code>main.ipynb</code> in jupyter lab </li>
   <li>The code will load the ResNet50 model, preprocess the image, and predict the class of the input image</li>
   <li>The output will be displayed in the command prompt, showing the predicted class and accuracy percentage.</li>
   <li>Additionally, the image will be displayed using Matplotlib.</li>
+  </ol>
   
   # Customization
   To customize the code for your own use, you can change the <code>imageSrc</code> variable to point to your own image file. You can also modify the <code>top</code> parameter in the <code>decode_predictions</code> function to change the number of predictions displayed.
