@@ -1,4 +1,4 @@
-# TensorFlow-Object-Detection
+# Image Recognition with ResNet50
 This Python code uses the ResNet50 model, which is a pre-trained deep learning model, to recognize the image and predict its class with a certain level of accuracy. The code is written using Python, and it requires OpenCV, Matplotlib, and TensorFlow libraries to be installed.
 
 # How to use the code
